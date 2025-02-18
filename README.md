@@ -1,4 +1,4 @@
-# MongoDB Express React NodeJS (MERN) Reference Implementation
+# MERN Sample Implementation (MongoDB Express React NodeJS) 
 
 This is an example implementation of a restaurant review application using the Express, Node.JS, React and MongoDB (MERN) stack.
 
@@ -13,7 +13,7 @@ The following technologies are used:
 The following are required:
 
 * MongoDB Atlas account with the sample dataset loaded onto a cluster (includes database sample_restaurants)
-* Node.JS (tested with v12.18.0)
+* Node.JS
 
 The backend and frontend are setup with npm and npx
 
